@@ -1,2 +1,0 @@
-# Matplotlib-Learning
-Just learning
